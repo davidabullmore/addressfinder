@@ -7,7 +7,7 @@ def readme():
 
 
 setup(name='pyap',
-      version='0.2.0',
+      version='0.3.6-alpha',
       description='Library for detecting and parsing addresses.'
       ' Currently supports US, Canadian and British addresses.',
       long_description=readme(),
